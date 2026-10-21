@@ -1,0 +1,20 @@
+{
+  "station_name": "Meteo Nerola",
+  "location": {
+    "name": "Nerola",
+    "region": "Lazio",
+    "province": "Roma",
+    "lat": 42.1527,
+    "lon": 12.7161,
+    "elevation": 453
+  },
+  "wrf_settings": {
+    "primary_resolution_km": 1.0,
+    "nested_resolution_km": 0.5,
+    "driving_models": ["ECMWF", "ICON-EU"]
+  },
+  "garden_settings": {
+    "soil_type": "medio impasto",
+    "active": true
+  }
+}
